@@ -1,0 +1,24 @@
+//应用图标
+Icon=https://img-view-c-sz.drive.quark.cn/dJJ9dN83/1946275980/677c6fa0e6dff3b567e64fea8d0d57300ff92ef3/677c6fa07725bbb6804c425689768c7c19f0598c/preview_png?auth_key=1736219207-26-10800-9553ba0abb2ba617e0e33de0e8b5f048&sp=100&token=3-08917a23ee79367eab5e9dcfbd898751-0-3-1024-15706141e42b4378a6b71c0062aa010a-0-0-0-0-c35c01af34e60a15006983e0d70bcaf4&ud=19-N-3-0-3-N-11-N-1-14-N-N^
+应用名称
+Name=Google I/O^
+//应用包名
+Package name=com.android.google^
+//最新的文件大小
+Size=1TB(最新)^
+//最新版本
+Latest version=1.0^
+//下载地址
+Download=http://www.baidu.com^
+//简介
+Brief introduction=
+--APP介绍
+  1:Google I/O
+  2:其实我也不懂介绍啥
+  3:逆天了
+  4:就是用来测试的
+  5:别看了
+^
+//历史版本
+Version history=[Version 1.0]Download=http://www.baidu.com[Version 0.9]Download=http://www.baidu.com
+^
